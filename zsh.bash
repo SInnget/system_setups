@@ -1,6 +1,6 @@
 #!/bin/bash
 sud apt-get update
-sudo apt-get install -y curl git zsh
+sudo apt-get install -y wget curl git zsh
 
 chsh -s /bin/zsh
 
